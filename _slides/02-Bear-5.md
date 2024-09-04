@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Warning there be Bears here!!
 
-![boxertocat](https://octodex.github.com/images/boxertocat_octodex.jpg)
+![boxertocat](https://octodex.github.com/images/bear-cavalry.png)
 {: .center}
